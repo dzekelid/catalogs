@@ -1,10 +1,10 @@
-title: Streamdata Gallery Catalog
-url: catalog.streamdata.gallery
-tag: Catalog
+title: Streamdata Gallery Catalogs
+url: catalogs.streamdata.gallery
+tag: Catalogs
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: catalog
+github_repo: catalogs
 github_branch: master
 collections:
   listings:
